@@ -1,2 +1,2 @@
-# udemy1
+# udemy
  WP Theme
